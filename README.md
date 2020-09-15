@@ -1,16 +1,15 @@
-### Hi there 👋
+Hola Mundo 👋
 
+Mi nombre es Santos y en esta cuarente he aprendido Html5, Css3, Bootstrap, Python y Django de forma autodidacta. También sé algo de Numpy, Matplotlib, Pandas y Webscraping. Y estoy muy contento con la programación y he creado los siguientes proyectos.
 
-**Goldsanchez/goldsanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Proyectos:
 
-Here are some ideas to get you started:
+- Página Web 
+- Crud
+- Api Rest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hobbies:
 
+- Ver anime y leer mangas. Mi preferidos del momento One Piece y Ahiru no Sora.
+
+Gracias por leerme, espero te haya gustado mi perfi profesional y podamos trabajar juntos, escalar proyectos juntos y ver animes juntos.
