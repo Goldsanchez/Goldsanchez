@@ -8,6 +8,8 @@ Proyectos:
 - Crud
 - Api Rest
 
+Aquí puedes ver el proyecto: [Blog con django](https://goldsanchez.pythonanywhere.com/)
+
 Hobbies:
 
 - Ver anime y leer mangas. Mi preferidos del momento One Piece y Ahiru no Sora.
