@@ -1,8 +1,8 @@
-### Hola Mundo 👋
+# Hola Mundo 👋
 
 Mi nombre es Santos y en esta cuarentena he aprendido Html5, Css3, Bootstrap, Python y Django de forma autodidacta. También sé algo de Numpy, Matplotlib, Pandas, Webscraping, SEO y Wordpress. Y estoy muy contento con la programación y he creado los siguientes proyectos.
 
-Proyectos:
+## Proyectos:
 
 ### Blog Django: 
 
