@@ -12,7 +12,7 @@ Un blog dónde puedes crear, actualizar y eliminar tus propios articulos. Es mi 
 
 ### Páginas hechas con Wordpress: 
 
-https://comprarmouse.com/, https://tiendaperros.club/, https://gamerprofesional.club/.
+https://animeshop.xyz/
 
 Comencé aprender Wordpress y Seo hace 3 años. Desde entonces he creado varios proyectos (nichos de amazon afiliados en general) y he estado en constante aprendizaje. Cada vez que monto un nicho me encargo de todo lo siguiente:
 
