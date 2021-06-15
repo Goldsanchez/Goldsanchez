@@ -6,7 +6,7 @@ Mi nombre es Santos y en esta cuarentena he aprendido Html5, Css3, Bootstrap, Py
 
 ### Blog Django: 
 
-https://goldsanchez.pythonanywhere.com/
+https://dev-django-pe.herokuapp.com/
 
 Un blog dónde puedes crear, actualizar y eliminar tus propios articulos. Es mi pequeño proyecto que he hecho con la tecnologías de html, css, bootstraap, python y Django y que está en constante mejora. Dichas tecnologías las he aprendido en esta cuarentena, especificamente desde Mayo.
 
