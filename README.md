@@ -1,6 +1,6 @@
 # Hola Mundo 👋
 
-Mi nombre es Santos y en esta cuarentena he aprendido Html5, Css3, Bootstrap, Python y Django de forma autodidacta. También sé algo de Numpy, Matplotlib, Pandas, Webscraping, SEO y Wordpress. Y estoy muy contento con la programación y he creado los siguientes proyectos.
+Mi nombre es Santos y puedo ayudarte en el Frontend con Html, Css, Javascript, React y Bootstrap. En el Backend con Python, Django, Flask y FastApi. También sé algo de Pandas, Numpy, Matplotlib, Webscraping, SEO y Wordpress.
 
 ## Proyectos:
 
@@ -8,11 +8,16 @@ Mi nombre es Santos y en esta cuarentena he aprendido Html5, Css3, Bootstrap, Py
 
 https://dev-django-pe.herokuapp.com/
 
-Un blog dónde puedes crear, actualizar y eliminar tus propios articulos. Es mi pequeño proyecto que he hecho con la tecnologías de html, css, bootstraap, python y Django y que está en constante mejora. Dichas tecnologías las he aprendido en esta cuarentena, especificamente desde Mayo.
+Es un proyecto que he hecho con la tecnologías de html, css, bootstraap, python y django y que está en constante mejora.
+
+- Blog
+- Tienda
+- Api
+- Registro de usuarios
 
 ### Páginas hechas con Wordpress: 
 
-https://animeshop.xyz/
+https://animemerchandising.com/
 
 Comencé aprender Wordpress y Seo hace 3 años. Desde entonces he creado varios proyectos (nichos de amazon afiliados en general) y he estado en constante aprendizaje. Cada vez que monto un nicho me encargo de todo lo siguiente:
 
@@ -33,4 +38,4 @@ Comencé aprender Wordpress y Seo hace 3 años. Desde entonces he creado varios 
 
 - Ver anime y leer mangas. Mi preferidos del momento One Piece y Ahiru no Sora.
 
-Gracias por leerme, espero te haya gustado mi perfil profesional y podamos trabajar juntos, escalar proyectos juntos y ver animes juntos.
+Gracias por leerme, espero te haya gustado mi perfil profesional.
