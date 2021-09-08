@@ -15,6 +15,12 @@ Es un proyecto que he hecho con la tecnologías de html, css, bootstraap, python
 - Api
 - Registro de usuarios
 
+### Twitter Django: 
+
+https://tuits-django-pe.herokuapp.com/
+
+Es una red social de Twitter básica.
+
 ### Páginas hechas con Wordpress: 
 
 https://animemerchandising.com/
