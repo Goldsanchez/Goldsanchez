@@ -17,7 +17,7 @@ Es un proyecto que he hecho con la tecnologías de html, css, bootstraap, python
 
 ### Agenda Django: 
 
-[https://tuits-django-pe.herokuapp.com/](https://agenda-django-pe.herokuapp.com/)
+https://agenda-django-pe.herokuapp.com/
 
 Es una agenda online.
 
