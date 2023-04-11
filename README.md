@@ -4,44 +4,26 @@ Mi nombre es Santos y puedo ayudarte en el Frontend con Html, Css, Javascript, R
 
 ## Proyectos:
 
-### Blog Django: 
+### Short Links: 
 
-https://dev-django-pe.herokuapp.com/
+https://goldsanchez.github.io/URL-shortening-API-landing-page/
 
-Es un proyecto que he hecho con la tecnologías de html, css, bootstraap, python y django y que está en constante mejora.
+### News Homepage: 
 
-- Blog
-- Tienda
-- Api
-- Registro de usuarios
+https://goldsanchez.github.io/news-homepage/
 
-### Agenda Django: 
+### Calculator: 
 
-https://agenda-django-pe.herokuapp.com/
+https://goldsanchez.github.io/calculator-app-main/
 
-Es una agenda online.
+### Tip Calculator: 
 
-### Páginas hechas con Wordpress: 
+https://goldsanchez.github.io/tip-calculator-app-main/
 
-https://animemerchandising.com/
+### 3 Columns Preview Card: 
 
-Comencé aprender Wordpress y Seo hace 3 años. Desde entonces he creado varios proyectos (nichos de amazon afiliados en general) y he estado en constante aprendizaje. Cada vez que monto un nicho me encargo de todo lo siguiente:
+https://goldsanchez.github.io/3-column-preview-card-component-main/
 
-- Instalar WordPress
-- Configurar wordpress
-- Configurar las DNS
-- Configurar certificado SSL Lets Encrypt
-- Configurar plugins imprescindibles
-- Configurar formulario de contacto.
-- Configurar google analytics y google search console
-- Crear menús
-- Agregar links de redes sociales
-- Agregar botón de Whatsapp
-- Crear correos corporativos
-- Instalar y configurar WooCommerce
+### Order Summary: 
 
-### Hobbies:
-
-- Ver anime y leer mangas. Mi preferidos del momento One Piece y Ahiru no Sora.
-
-Gracias por leerme, espero te haya gustado mi perfil profesional.
+https://goldsanchez.github.io/order-summary-component-main/
